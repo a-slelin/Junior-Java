@@ -1,0 +1,3 @@
+module appsupport {
+    exports mysupport;
+}
